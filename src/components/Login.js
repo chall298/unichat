@@ -9,7 +9,7 @@ const Login = () => {
     return (
         <div id="login-page">
             <div id="login-card">
-                <h2>Welcome to Unichat by Christopher Hall</h2>
+                <h2>Welcome to Unichat by Christopher Hall!</h2>
 
                 <div
                     className="login-button google"
