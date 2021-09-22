@@ -9,7 +9,7 @@ const Login = () => {
     return (
         <div id="login-page">
             <div id="login-card">
-                <h2>Welcome to Unichat by Christopher Hall!</h2>
+                <h2>Welcome to Unichat</h2>
 
                 <div
                     className="login-button google"
@@ -20,12 +20,12 @@ const Login = () => {
 
                 <br /> <br />
 
-                <div
+                {/* <div
                     className="login-button facebook"
                     onClick={() => auth.signInWithRedirect(new firebase.auth.FacebookAuthProvider())}
                 >
                     <FacebookOutlined /> Sign In with Facebook
-                </div>
+                </div> */}
             </div>
         </div>
     )
