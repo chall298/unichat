@@ -1,4 +1,6 @@
-This is a messenger app that i built using firebase, google sign in and react chat engine
+This is a messenger app that i built using Javascript, Reactjs, Firebase, Google sign in and React chat engine.
+
+A gmail account is required in order to sign in
  
 Check it out here!!!!!!!!!!!!------->   https://chrischat.netlify.app/
 
